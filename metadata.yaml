@@ -1,0 +1,32 @@
+_repo: A-Little-Book-of-Profitable-Tales_9485
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: 'The first Christmas tree -- The symbol and the saint -- The coming
+  of the prince -- The mouse and the moonbeam -- The divell''s Chrystmasse -- The
+  mountain and the sea -- The robin and the violet -- The oak-tree and the ivy --
+  Margaret: a pearl -- The springtime -- Rodolph and his king -- The Hampshire hills
+  -- Ezra''s Thanksgivin'' out West -- Ludwig and Eloise -- Fido''s little friend
+  -- The old man -- Bill, the lokil editor -- The little yaller baby -- The cyclopeedy
+  -- Dock Stebbins -- The fairies of Pesth.'
+title: A Little Book of Profitable Tales
+url: http://www.gutenberg.org/ebooks/9485
